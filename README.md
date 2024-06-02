@@ -1,4 +1,4 @@
-Gas Lavel Detection and Automatic Booking :
+Gas Lavel Detection and Automatic Booking using IOT:
 
 The objective of this project is to monitor the gas level in the cylinder and automatically place an order for a new cylinder when the gas level drops below a certain threshold. For this, I utilized Arduino Uno, SIM900a, a load cell (HX711), and a display.
 
